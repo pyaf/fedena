@@ -1,5 +1,5 @@
 # fedena
-This software will tell you when your fourth semester result is up on fedena and once it's up, it will automatically download it for you ;)
+This program will tell you when your fourth semester result is up on fedena and once it's up, it will automatically download it for you ;)
 
 ### Instructions
 
@@ -11,5 +11,3 @@ Note: You must have python 3+ installed on your system. (prefer Linux)
 4. `scrapy crawl fedena`
 
 Sit back and chillax :)
-
-
