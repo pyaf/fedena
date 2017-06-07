@@ -1,5 +1,4 @@
 import scrapy
-import pdfkit
 import time
 
 class LoginSpider(scrapy.Spider):
